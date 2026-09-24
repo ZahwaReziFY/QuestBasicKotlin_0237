@@ -1,31 +1,29 @@
-Assignment Activity 1 - Basic Kotlin
+<div align="center">
 
-Repository: QuestBasicKotlin_0237
+# 🚀 Activity 1 - Basic Kotlin
 
-Platform/IDE: Kotlin Playground / Kotlin Editor
+**Repository:** `QuestBasicKotlin_0237`  
+**Platform:** Kotlin Playground / Kotlin Editor  
+**Tanggal:** 24 September 2026  
 
-Tanggal: 24 September 2026
+---
 
-📌 Deskripsi Proyek
+</div>
 
-Proyek ini berisi rangkuman latihan dasar bahasa pemrograman Kotlin berdasarkan modul Pertemuan 2 (Basic Kotlin). Proyek ini mendokumentasikan sintaks dasar, tipe data, koleksi, kontrol alur, fungsi, kelas, serta penanganan null safety.
+> 📌 **Deskripsi Proyek**  
+> Proyek ini berisi dokumentasi dan hasil eksperimen latihan dasar pemrograman Kotlin berdasarkan modul **Pertemuan 2 (Basic Kotlin)**. Materi mencakup konsep sintaks dasar, variabel, tipe data, koleksi, kontrol alur, fungsi, kelas, hingga penanganan *null safety*.
 
-🗂️ Daftar Isi & Ringkasan Sub-Bab
+---
 
-1. What (Hello World & Variables)
+## 📑 Daftar Sub-Bab & Bukti Eksekusi
 
-2. Basic Data Types
+| No | Sub-Bab Materi | Status Implementasi |
+|---|---|---|
+| 1 | [Hello World & Variables](#1-hello-world--variables) | ✅ Selesai |
+| 2 | [Basic Data Types](#2-basic-data-types) | ✅ Selesai |
+| 3 | [Collections (List, Set, Map)](#3-collections-list-set-map) | ✅ Selesai |
+| 4 | [Conditional Expressions & Loops](#4-conditional-expressions--loops) | ✅ Selesai |
+| 5 | [Functions & Lambdas](#5-functions--lambdas) | ✅ Selesai |
+| 6 | [Classes & Null Safety](#6-classes--null-safety) | ✅ Selesai |
 
-3. Collection (List, Set, Map)
-
-4. Conditional Expressions & Ranges
-
-5. Loops (For & While)
-
-6. Functions & Lambda Expressions
-
-7. Class & Data Class
-
-8. Null Safety
-
-📝 Implementasi Kode Program per Sub-Bab
+---
