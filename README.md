@@ -37,6 +37,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22155826-c69e-4e68-98c8-67b7725dc87f" />
 
 5. Conditional Expressions & Loops
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff99b3a6-64cd-4289-8e96-3306f3b50588" />
 
 6. Functions & Lambdas
 
