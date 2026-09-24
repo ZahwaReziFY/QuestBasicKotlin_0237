@@ -31,11 +31,12 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d52b9f0c-10af-447c-9f07-44e67f11bdb7" />
 
 2. Basic Data Types
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ccb0fbe-a682-4c0c-a5c6-bfe2bc822dfd" />
 
-3. Collections (List, Set, Map)
+4. Collections (List, Set, Map)
 
-4. Conditional Expressions & Loops
+5. Conditional Expressions & Loops
 
-5. Functions & Lambdas
+6. Functions & Lambdas
 
-6. Classes & Null Safety
+7. Classes & Null Safety
